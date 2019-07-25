@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/home/razvan/Workspace/4PSA-training/HG"
+		}
+	],
+	"settings": {
+		"mocha.env": {
+			"NYC_ROOT_ID": ""
+		}
+	}
+}

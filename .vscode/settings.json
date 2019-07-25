@@ -1,0 +1,4 @@
+{
+    "mocha.requires": [ "esm" ],
+    "mocha.env": { "NYC_ROOT_ID": "" }
+}

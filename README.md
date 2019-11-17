@@ -22,5 +22,7 @@ And then open in your browser `./coverage/index.html`
 
 Make sure you have installed all the dependencies required for your project.
 
+*Note*: Remove `node_modules` and `coverage` folders after cloning to avoid any problems.
+
 # References
 [1] https://istanbul.js.org/docs/tutorials/mocha/
